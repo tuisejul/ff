@@ -1,0 +1,168 @@
+*{
+    margin: 0;
+    font-family: 'Playfair Display', sans-serif;
+}
+
+header {
+    background-color: #355E3B;
+}
+
+.header-block {
+    width: auto;
+    height: 78px;
+    background-color: #355E3B;
+}
+
+.head {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.title {
+    font-size: 30px;
+    font-style: italic;
+    color: #FFFFFF;
+    width: 325px;
+    margin: 15px;
+}
+
+.links {
+    font-size: 20px;
+    color: #FFFFFF;
+    padding: 15px;
+    text-decoration: none;
+}
+
+.btn {
+    width: 245px;
+    height: 40.5px;
+    color: #FFFFFF;
+    margin: 15px;
+    padding: 15px;
+    border-radius: 10px;
+}
+
+.btn-title {
+    color: #355E3B;
+    font-size: 20px;
+    text-decoration: none;
+    text-align: center;
+    padding-top: 15px;
+}
+
+.button {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.about-block {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.img1 {
+    width: 750px;
+    height: 755px;
+}
+
+p {
+    font-size: 25px;
+    text-align: center;
+    padding: 65px;
+}
+
+.btn2 {
+    width: 245px;
+    height: 40.5px;
+    background-color:#355E3B;
+    margin: 15px;
+    padding: 15px;
+    border-radius: 10px;
+}
+
+.img2 {
+    width: 900px;
+    height: 750px;
+}
+
+.about-menu-block {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.btn-title2 {
+    color: #FFFFFF;
+    font-size: 20px;
+    text-decoration: none;
+    text-align: center;
+    padding-top: 15px;
+}
+
+.button2 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.text-menu {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.booking-block {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.img3 {
+    width: 750px;
+    height: 760px;
+}
+
+main {
+    background-color: #FFFFFF;
+}
+
+.waiting-block {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.img4 {
+    width: 980px;
+    height: 760px;
+}
+
+.footer-block {
+    background-color: #355E3B;
+}
+
+.foot-info {
+    display: flex;
+    flex-direction: column;
+}
+
+.phone {
+    color: #FFFFFF;
+    text-align: left;
+    padding: 5px;
+}
+
+.inst {
+    color: #FFFFFF;
+    text-align: left;
+    padding: 5px;
+}
+
+.foot-block {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
